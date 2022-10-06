@@ -8,7 +8,7 @@
         >vue-cli documentation</a
       >.
     </p>
-    <h3>Diego</h3>
+    <h3>Diegos</h3>
     <ul>
       <li>
         <a
