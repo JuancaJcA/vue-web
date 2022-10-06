@@ -9,7 +9,7 @@
         >Diego Alvarado Callisaya</a
       >.
     </p>
-    <h3>Diegos</h3>
+    <h3>Docente</h3>
     <ul>
       <li>
         <a
