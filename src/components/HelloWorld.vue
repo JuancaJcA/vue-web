@@ -9,6 +9,25 @@
         >Diego Alvarado Callisaya</a
       >.
     </p>
+    <h3>Docente</h3>
+    <ul>
+      <li>
+        <a
+          href="https://github.com/vuejs/vue-cli/tree/dev/packages/%40vue/cli-plugin-babel"
+          target="_blank"
+          rel="noopener"
+          >babel</a
+        >
+      </li>
+      <li>
+        <a
+          href="https://github.com/vuejs/vue-cli/tree/dev/packages/%40vue/cli-plugin-eslint"
+          target="_blank"
+          rel="noopener"
+          >eslint</a
+        >
+      </li>
+    </ul>
     <h3>Essential Links</h3>
     <ul>
       <li>
@@ -33,7 +52,7 @@
         <a href="https://news.vuejs.org" target="_blank" rel="noopener">News</a>
       </li>
     </ul>
-    <h3>Docente: Rolando Ticona Barroso</h3> <br>
+    <h3>Docente: Rolando Marcelo Ticona Barroso</h3> <br>
     <h3>Fecha de Entrega: 06/10/2022 </h3> <br>
     <h3>Semestre 2-2022 </h3> <br>
   </div>
