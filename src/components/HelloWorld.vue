@@ -54,7 +54,7 @@
     </ul>
     <h3>Docente: Rolando Marcelo Ticona Barroso</h3> <br>
     <h3>Fecha de Entrega: 06/10/2022 </h3> <br>
-    <h3>Semestre 2-2022 </h3> <br>
+    <h3>Semestre: 2-2022 </h3> <br>
   </div>
 </template>
 
