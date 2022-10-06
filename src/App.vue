@@ -1,19 +1,22 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="https://vuejs.org/images/logo.png">
-    <HelloWorld msg="hola comit"/>
+    <img
+      alt="Vue logo"
+      src="https://lpz.ucb.edu.bo/wp-content/uploads/2021/12/Colores-Vertical-3.png"
+    />
+    <HelloWorld msg="hola comit" />
   </div>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import HelloWorld from './components/HelloWorld.vue';
 
 export default {
   name: 'App',
   components: {
-    HelloWorld
-  }
-}
+    HelloWorld,
+  },
+};
 </script>
 
 <style>
