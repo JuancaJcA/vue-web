@@ -4,7 +4,7 @@
       alt="Vue logo"
       src="https://lpz.ucb.edu.bo/wp-content/uploads/2021/12/Colores-Vertical-3.png"
     />
-    <HelloWorld msg="hola comit" />
+    <HelloWorld msg="Proyecto de Tecno Web" />
   </div>
 </template>
 
